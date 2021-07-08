@@ -1,7 +1,7 @@
 [
   {
     "full_name": "saulpw/visidata",
-    "stargazers_count": 3933,
+    "stargazers_count": 3936,
     "open_issues_count": 14,
     "forks_count": 163
   },
@@ -9,12 +9,12 @@
     "full_name": "nix-community/poetry2nix",
     "stargazers_count": 169,
     "open_issues_count": 58,
-    "forks_count": 71
+    "forks_count": 72
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 456,
-    "open_issues_count": 44,
+    "stargazers_count": 457,
+    "open_issues_count": 45,
     "forks_count": 132
   }
 ]
