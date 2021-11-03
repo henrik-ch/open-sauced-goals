@@ -1,19 +1,19 @@
 [
   {
     "full_name": "freeCodeCamp/devdocs",
-    "stargazers_count": 26871,
-    "open_issues_count": 127,
-    "forks_count": 1811
+    "stargazers_count": 26892,
+    "open_issues_count": 128,
+    "forks_count": 1810
   },
   {
     "full_name": "shd101wyy/markdown-preview-enhanced",
-    "stargazers_count": 3410,
-    "open_issues_count": 811,
+    "stargazers_count": 3413,
+    "open_issues_count": 812,
     "forks_count": 462
   },
   {
     "full_name": "simonw/til",
-    "stargazers_count": 387,
+    "stargazers_count": 389,
     "open_issues_count": 7,
     "forks_count": 37
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "jarun/buku",
-    "stargazers_count": 4757,
+    "stargazers_count": 4764,
     "open_issues_count": 1,
-    "forks_count": 247
+    "forks_count": 249
   },
   {
     "full_name": "nucleic/enaml",
@@ -55,38 +55,38 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 521,
+    "stargazers_count": 529,
     "open_issues_count": 25,
-    "forks_count": 147
+    "forks_count": 150
   },
   {
     "full_name": "nix-community/poetry2nix",
     "stargazers_count": 204,
-    "open_issues_count": 72,
+    "open_issues_count": 76,
     "forks_count": 90
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 18585,
-    "open_issues_count": 71,
-    "forks_count": 491
+    "stargazers_count": 18666,
+    "open_issues_count": 75,
+    "forks_count": 489
   },
   {
     "full_name": "simonw/sqlite-utils",
     "stargazers_count": 575,
-    "open_issues_count": 37,
+    "open_issues_count": 39,
     "forks_count": 50
   },
   {
     "full_name": "simonw/datasette",
-    "stargazers_count": 5535,
-    "open_issues_count": 310,
+    "stargazers_count": 5543,
+    "open_issues_count": 311,
     "forks_count": 371
   },
   {
     "full_name": "nix-community/lorri",
-    "stargazers_count": 162,
-    "open_issues_count": 27,
+    "stargazers_count": 164,
+    "open_issues_count": 26,
     "forks_count": 7
   },
   {
@@ -97,27 +97,27 @@
   },
   {
     "full_name": "ranaroussi/yfinance",
-    "stargazers_count": 5879,
-    "open_issues_count": 364,
-    "forks_count": 1392
+    "stargazers_count": 5903,
+    "open_issues_count": 367,
+    "forks_count": 1398
   },
   {
     "full_name": "geerlingguy/mac-dev-playbook",
-    "stargazers_count": 4050,
-    "open_issues_count": 9,
-    "forks_count": 1149
+    "stargazers_count": 4063,
+    "open_issues_count": 8,
+    "forks_count": 1161
   },
   {
     "full_name": "nix-dot-dev/getting-started-nix-template",
-    "stargazers_count": 273,
+    "stargazers_count": 275,
     "open_issues_count": 5,
     "forks_count": 18
   },
   {
     "full_name": "nmattia/niv",
-    "stargazers_count": 840,
-    "open_issues_count": 77,
-    "forks_count": 45
+    "stargazers_count": 843,
+    "open_issues_count": 78,
+    "forks_count": 46
   },
   {
     "full_name": "george-hawkins/financials",
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "norvig/pytudes",
-    "stargazers_count": 17004,
+    "stargazers_count": 17013,
     "open_issues_count": 17,
-    "forks_count": 2023
+    "forks_count": 2024
   },
   {
     "full_name": "stedolan/jq",
-    "stargazers_count": 20533,
-    "open_issues_count": 693,
-    "forks_count": 1221
+    "stargazers_count": 20563,
+    "open_issues_count": 692,
+    "forks_count": 1222
   },
   {
     "full_name": "simonw/ca-fires-history",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "kmonad/kmonad",
-    "stargazers_count": 1157,
-    "open_issues_count": 92,
-    "forks_count": 131
+    "stargazers_count": 1171,
+    "open_issues_count": 93,
+    "forks_count": 130
   },
   {
     "full_name": "Refinitiv-API-Samples/Article.RDPLibrary.Python.ZeroCouponCurves",
@@ -157,19 +157,19 @@
   },
   {
     "full_name": "DavHau/mach-nix",
-    "stargazers_count": 385,
+    "stargazers_count": 388,
     "open_issues_count": 115,
     "forks_count": 39
   },
   {
     "full_name": "akosbalasko/yarle",
-    "stargazers_count": 350,
+    "stargazers_count": 354,
     "open_issues_count": 37,
     "forks_count": 33
   },
   {
     "full_name": "Tow-Boot/Tow-Boot",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 32,
     "forks_count": 7
   },
@@ -177,6 +177,6 @@
     "full_name": "jazzband/tablib",
     "stargazers_count": 4032,
     "open_issues_count": 36,
-    "forks_count": 570
+    "forks_count": 572
   }
 ]
